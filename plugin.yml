@@ -1,0 +1,6 @@
+name: MazeGame
+main: com.github.testplugin.TestPlugin
+version: 0.0.1
+description: Minecraft Bukkit plugin for testing
+authors: [KU24]
+api-version: 1.19
